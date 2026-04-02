@@ -1,5 +1,12 @@
+import { defineConfig } from 'vite'
+
+export default defineConfig({
+  build: {
+    target: 'es2022'
+  }
+})
 {
-  "name": "remix-circle-of-water-3d-websi",
+  "name": "water-3d-websi",
   "private": true,
   "version": "1.0.0",
   "type": "module",
