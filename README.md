@@ -1,6 +1,5 @@
-# Remix: Circle of Water 3D Website
+# Water 3D Website
 
-Created with [Omma](https://omma.build)
 
 ## Setup
 
